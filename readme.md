@@ -1,25 +1,8 @@
-Certainly! The Eisenhower Box (also known as the Urgent-Important Matrix) is a time management tool that helps prioritize tasks based on their urgency and importance. It's named after Dwight D. Eisenhower, the 34th President of the United States, who is often credited with saying, "What is important is seldom urgent and what is urgent is seldom important."
+The Eisenhower Box (also known as the Urgent-Important Matrix) is a time management tool that helps prioritize tasks based on their urgency and importance. It's named after Dwight D. Eisenhower, the 34th President of the United States, who is often credited with saying, "What is important is seldom urgent and what is urgent is seldom important."
 
-**Eisenhower Box**:
-```
-+---------------------+---------------------+
-|   Urgent &          |   Not Urgent &      |
-|   Important         |   Important         |
-|                     |                     |
-|     Quadrant I      |     Quadrant II     |
-|                     |                     |
-+---------------------+---------------------+
-|   Urgent &          |   Not Urgent &      |
-|   Not Important     |   Not Important     |
-|                     |                     |
-|     Quadrant III    |     Quadrant IV     |
-|                     |                     |
-+---------------------+---------------------+
+## Eisenhower Box:
 
-
-
-
-```
+![Eishenhower Box](https://github.com/krishna-perugupalli/time-management/blob/main/eisenhower-matrix_v2.png)
 
 **How to use it effectively**:
 
