@@ -31,6 +31,7 @@ Remember, the Eisenhower Box is a tool to help you think more critically about h
 "Getting Things Done" (GTD) is a time management and productivity method developed by David Allen. The GTD system is based on the idea of capturing all the tasks and ideas that come into your mind and then organizing and prioritizing them in a systematic way.
 
 **Illustration of Getting Things Done (GTD) Process**:
+
 ![GTD](https://github.com/krishna-perugupalli/time-management/blob/main/assets/GTD.png)
 
 **Steps of GTD explained**:
