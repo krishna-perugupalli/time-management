@@ -2,7 +2,7 @@ The Eisenhower Box (also known as the Urgent-Important Matrix) is a time managem
 
 ## Eisenhower Box:
 
-![Eishenhower Box](https://github.com/krishna-perugupalli/time-management/blob/main/eisenhower-matrix_v2.png)
+![Eishenhower Box](https://github.com/krishna-perugupalli/time-management/blob/main/assets/eisenhower-matrix_v2.png)
 
 **How to use it effectively**:
 
@@ -31,7 +31,7 @@ Remember, the Eisenhower Box is a tool to help you think more critically about h
 "Getting Things Done" (GTD) is a time management and productivity method developed by David Allen. The GTD system is based on the idea of capturing all the tasks and ideas that come into your mind and then organizing and prioritizing them in a systematic way.
 
 **Illustration of Getting Things Done (GTD) Process**:
-![GTD](https://github.com/krishna-perugupalli/time-management/blob/main/GTD.png)
+![GTD](https://github.com/krishna-perugupalli/time-management/blob/main/assets/GTD.png)
 
 **Steps of GTD explained**:
 
