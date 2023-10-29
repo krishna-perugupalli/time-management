@@ -25,3 +25,33 @@ The Eisenhower Box (also known as the Urgent-Important Matrix) is a time managem
 5. **Prioritize Quadrant II**: To make the most out of the Eisenhower Box, ensure you're dedicating sufficient time to Quadrant II tasks. They are the ones that will have the most significant long-term impact but are often neglected in favor of more urgent tasks.
 
 Remember, the Eisenhower Box is a tool to help you think more critically about how you spend your time. It's not just about getting things done, but getting the right things done efficiently.
+
+
+## Getting Things Done (GTD):
+"Getting Things Done" (GTD) is a time management and productivity method developed by David Allen. The GTD system is based on the idea of capturing all the tasks and ideas that come into your mind and then organizing and prioritizing them in a systematic way.
+
+**Illustration of Getting Things Done (GTD) Process**:
+![GTD](https://github.com/krishna-perugupalli/time-management/blob/main/GTD.png)
+
+**Steps of GTD explained**:
+
+1. **Capture**: Collect everything that has your attention. Write down, record, or gather every single thing that you might need to do, want to do, or think you should do.
+
+2. **Clarify**: Process what you've captured. For each item, ask:
+   - Is it actionable? 
+     - If no, either trash it, incubate it for potential future action, or reference it (store it in an organized manner).
+     - If yes, determine the very next action required.
+       - If the task will take less than 2 minutes, do it immediately.
+       - If the task will take longer, delegate it (if possible) or defer it.
+
+3. **Organize**: Place the items you've captured and clarified into categories and lists. This could include:
+   - Projects (multi-step tasks)
+   - Next actions (tasks that can be done in one step)
+   - Waiting for (tasks you’ve delegated and are waiting for someone else to complete)
+   - Someday/maybe (things you might want to do in the future but not right now)
+
+4. **Reflect**: Review your GTD system regularly. This includes a daily review of your next actions and a more comprehensive weekly review where you assess your projects, long-term goals, and areas of focus.
+
+5. **Engage**: Use your organized system to guide your daily work. Choose tasks from your next actions list, considering the context, time available, energy, and priorities.
+
+GTD is effective because it frees up your mind from trying to remember everything you have to do, allowing it to focus on actually performing tasks. By consistently applying the GTD method, you can create a reliable system that manages your tasks and commitments, ensuring that you're working on the right things at the right times.
